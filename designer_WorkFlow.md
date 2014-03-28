@@ -31,8 +31,31 @@
 
 Этап 2
 =======
-Разработка дополнительных макетов. Например блог, портфолио, 404, магазин.
-Также возможна разработка других вариантов headerа. 
+Разработка дополнительных макетов.
+Сисок макетов для раздела Pages:
+-----------------------------
+| Макет  | Пример |
+| --------------------------- | ------------- |
+| About Us | http://htmlstream.com/preview/unify/page_about.html
+| Pricing Page | http://htmlstream.com/preview/unify/page_pricing.html |
+| Our Team | http://htmlstream.com/preview/unify/page_meet_our_team.html |
+| Our Clinets | http://htmlstream.com/preview/unify/page_clients.html |
+| FAQ | http://htmlstream.com/preview/unify/page_faq.html |
+| Login | http://htmlstream.com/preview/unify/page_login.html | 
+| Registration | http://htmlstream.com/preview/unify/page_registration.html |
+| Contacts | http://htmlstream.com/preview/unify/page_contact1.html |
+Сисок макетов для раздела Blog:
+-----------------------------
+| Макет  | Пример |
+| --------------------------- | ------------- |
+| Blog list | http://htmlstream.com/preview/unify/blog_medium.html |
+| Blog item | http://htmlstream.com/preview/unify/blog_item_option1.html |
+Сисок макетов для раздела Portfolio:
+-----------------------------
+| Макет  | Пример |
+| --------------------------- | ------------- |
+| Portfolio list | http://htmlstream.com/preview/unify/portfolio_text_blocks.html |
+| Portfolio item | http://htmlstream.com/preview/unify/portfolio_item.html |
 
 Этап 3
 ======
